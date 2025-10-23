@@ -28,7 +28,7 @@ Configuration: Create a .env file to set your PORT and MONGO_URI connection stri
 Start the server with:
 
 Bash
-- npm start
+- npm run start
 
 The server will run at:
 - http://localhost:3000
